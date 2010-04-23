@@ -1,0 +1,3 @@
+
+
+ - http://today.java.net/pub/a/today/2003/07/30/LuceneIntro.html

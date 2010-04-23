@@ -1,1 +1,4 @@
-(ns lucene.core)
+(ns lucene
+  (:use (lucene core snowball))
+  )
+
